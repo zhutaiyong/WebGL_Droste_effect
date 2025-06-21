@@ -1,1 +1,114 @@
-
+{
+    "metadata": {
+        "asset": "bimtiles",
+        "version": "0.0.3",
+        "generateTool": "BimtilesCompiler v0.03",
+        "datetime": "2022-12-02 17:44:43",
+        "content": "bim",
+        "outline": 1,
+        "onDemand": 0,
+        "layer": 1,
+        "model_unit": "m",
+        "root": "bimtiles/bimtiles.json.gz",
+        "detailLevel": [
+            4
+        ],
+        "model_size": 1413426
+    },
+    "count": {
+        "element": 447,
+        "item_count": 677,
+        "layer_item_count": 677,
+        "group_item_count": 0,
+        "instance_item_count": 0,
+        "visibility_item_count": 0,
+        "tile_count": 2,
+        "userdata_count": 322,
+        "instance_count": 0,
+        "material_count": 29,
+        "texture_count": 0,
+        "mesh_vertex": 107214,
+        "mesh_face": 93898,
+        "texture_pixels": 0
+    },
+    "view": {
+        "bbox": [
+            -19.702795028686523,
+            -17.35849380493164,
+            -0.45000001788139343,
+            18.80731964111328,
+            14.06501579284668,
+            13.36995792388916
+        ],
+        "position": [
+            0.0058132559061050415,
+            -0.08387380093336105,
+            0.021380603313446045
+        ],
+        "rotation": [
+            -1.5707963705062866,
+            0.0,
+            0.0
+        ],
+        "scale": [
+            0.012983602471649647,
+            0.012983602471649647,
+            0.012983602471649647
+        ],
+        "transform": 0
+    },
+    "coordinateSystem": {
+        "projectBasePoint": {
+            "rotation": 0.0,
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "transform": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "internalOrigin": {
+            "rotation": 0.0,
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "transform": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        }
+    }
+}
